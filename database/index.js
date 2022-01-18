@@ -10,7 +10,8 @@ mongoose
   )
   .then((res) => {
     console.log("database terhubung ");
-  });
+  })
+  .catch(err);
 const db = mongoose.connection;
 
 module.exports = db;
