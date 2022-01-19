@@ -1,1 +1,1 @@
-web: set DEBUG=eduwork-store:* & nodemon
+web: npm start
