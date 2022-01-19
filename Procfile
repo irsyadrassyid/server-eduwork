@@ -1,1 +1,1 @@
-web: set DEBUG=eduwork-store:* & nodemon start --minUptime 10000 --spinSleepTime 1000 .bin/www
+web: set DEBUG=eduwork-store:* & nodemon
